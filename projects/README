@@ -1,6 +1,0 @@
-MAS.S62 Final Project: KeyChain.
-Uses biometric fingerprint data to create private keys for use on the blockchain.
-
-main.go - entry point for application
-fuzzy_vault.go - implements functionality from https://github.com/jwoogerd/fuzzy_vault in Golang.
-opreturn.go - builds transactions for Bitcoin testnet 3
